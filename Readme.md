@@ -12,4 +12,4 @@ layer.If you want me to develop more or host, this project let me know.
 
 ## Architecture
 
-![]([https://github.com/abhisekmohantychinua/student-backend/blob/main/ARCHITECTURE.mp4](https://github.com/abhisekmohantychinua/student-backend/assets/86331203/1cea8305-ff2c-4dc9-ae9a-64bdbda49856))
+![](https://github.com/abhisekmohantychinua/student-backend/assets/86331203/1cea8305-ff2c-4dc9-ae9a-64bdbda49856)
