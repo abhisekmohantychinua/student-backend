@@ -12,4 +12,8 @@ layer.If you want me to develop more or host, this project let me know.
 
 ## Architecture
 
-![architecture](https://drive.google.com/file/d/1KAaZ25kkBjfQ4c1K3VjMbbcs-A8nAq4r/view?usp=share_link)
+
+
+
+https://github.com/abhisekmohantychinua/student-backend/assets/86331203/93165d81-51fa-4665-9410-d4eca0463f22
+
