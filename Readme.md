@@ -12,8 +12,4 @@ layer.If you want me to develop more or host, this project let me know.
 
 ## Architecture
 
-
-
-
-https://github.com/abhisekmohantychinua/student-backend/assets/86331203/93165d81-51fa-4665-9410-d4eca0463f22
-
+![](https://github.com/abhisekmohantychinua/student-backend/blob/main/ARCHITECTURE.mp4)
