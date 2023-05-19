@@ -11,5 +11,5 @@ layer.If you want me to develop more or host, this project let me know.
 * > Documentation for accessing the Api [Postman](https://documenter.getpostman.com/view/23395461/2s93m1ZjUm)
 
 ## Architecture
+https://github.com/abhisekmohantychinua/student-backend/assets/86331203/6988eb9e-4dd1-43cc-bd5a-87ab29ef6a78
 
-![](https://github.com/abhisekmohantychinua/student-backend/blob/main/ARCHITECTURE.mp4)
