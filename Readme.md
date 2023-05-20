@@ -12,6 +12,7 @@ layer.If you want me to develop more or host, this project let me know.
 Pull GitHub branch to your local device.Go to folder `build/libs/`.Run the
 jar `java -jar student-backend-0.0.1-SNAPSHOT.jar`.
 Follow documentation to use api properly.
+> **Note** : MySql must be installed on your system and create a new database named `studentfullstack`.
 
 * > Contact me on [LinkedIn](https://www.linkedin.com/in/abhisek-mohanty-3a2241235/)
 * > Documentation for accessing the Api [Postman](https://documenter.getpostman.com/view/23395461/2s93m1ZjUm)
